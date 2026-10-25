@@ -1,4 +1,8 @@
-![Kevin Zhang — Cornell ECE student focused on RTL design, design verification, and computer architecture.](assets/fastfetch.svg)
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/fastfetch.svg">
+  <source media="(prefers-color-scheme: light)" srcset="assets/fastfetch-light.svg">
+  <img alt="Kevin Zhang" src="assets/fastfetch-light.svg" width="1200">
+</picture>
 
 ### `~/projects`
 
@@ -7,7 +11,7 @@
 
 ### `~/about`
 
-I'm Kevin, an Electrical and Computer Engineering student at Cornell. I enjoy building digital hardware and figuring out how to prove it works. At Cornell Custom Silicon Systems (C2S2), I work on design verification.
+I'm Kevin, an Electrical and Computer Engineering student at Cornell. I enjoy building digital hardware and figuring out how to prove it works. I am also a design verification engineer at Cornell Custom Silicon Systems (C2S2).
 
 ### `~/contact`
 
